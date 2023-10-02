@@ -21,19 +21,6 @@ and also promising technologies like Blockchain and PWAs.
 
 <br />
 
-## Rapidfire
-<table>
-	<tr>
-		<td valign="top" width="50%">
-			- 🔭 I’m currently working on OpenAI, threeJs, CI/CD ... - 
-			- 🌱 I’m currently learning Hyperledger and Kubernetes
-		</td>
-		<td valign="top" width="50%">
-			- ❓ Ask me about anything related to MERN stack and related technologies 
-			- ⚡ Fun fact: I keep night shift swithed on at all times
-		</td>
-	</tr>
-</table>
 
 <br />
 
