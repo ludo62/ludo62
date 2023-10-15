@@ -12,7 +12,9 @@ J'ai une passion pour la création de systèmes légers mais puissants, distribu
 </br></br>
 Mon expertise s'étend à une gamme de technologies, notamment JavaScript, Python, C#, et C++, me permettant de choisir les outils les plus adaptés à chaque projet. En plus de mon travail, j'aime partager mes connaissances et mon expérience avec la communauté. Je blogue fréquemment sur l'envers du décor, explorant des sujets tels que la conception de systèmes, les bases de données, la sécurité, les serveurs, l'optimisation, ainsi que les technologies émergentes passionnantes comme la Blockchain et les Progressive Web Apps (PWA). 
 </br></br>
-Mon but est de rendre la complexité du développement accessible à tous, le tout avec une touche d'humour pour que l'apprentissage reste agréable. Si vous recherchez un développeur capable de créer des solutions robustes, élégantes et performantes, je suis votre homme. N'hésitez pas à explorer mon travail et à me contacter pour discuter de vos projets. Je suis prêt à relever de nouveaux défis passionnants !
+Mon but est de rendre la complexité du développement accessible à tous, le tout avec une touche d'humour pour que l'apprentissage reste agréable. Si vous recherchez un développeur capable de créer des solutions robustes, élégantes et performantes, je suis votre homme. 
+</br></br>
+N'hésitez pas à explorer mon travail et à me contacter pour discuter de vos projets. Je suis prêt à relever de nouveaux défis passionnants !
 
 </br></br>
 
